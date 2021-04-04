@@ -1,0 +1,13 @@
+H:\API\RemoveFiles\RemoveFiles\bin\Debug\netcoreapp3.1\RemoveFiles.exe
+H:\API\RemoveFiles\RemoveFiles\bin\Debug\netcoreapp3.1\RemoveFiles.deps.json
+H:\API\RemoveFiles\RemoveFiles\bin\Debug\netcoreapp3.1\RemoveFiles.runtimeconfig.json
+H:\API\RemoveFiles\RemoveFiles\bin\Debug\netcoreapp3.1\RemoveFiles.runtimeconfig.dev.json
+H:\API\RemoveFiles\RemoveFiles\bin\Debug\netcoreapp3.1\RemoveFiles.dll
+H:\API\RemoveFiles\RemoveFiles\bin\Debug\netcoreapp3.1\RemoveFiles.pdb
+H:\API\RemoveFiles\RemoveFiles\obj\Debug\netcoreapp3.1\RemoveFiles.csprojAssemblyReference.cache
+H:\API\RemoveFiles\RemoveFiles\obj\Debug\netcoreapp3.1\RemoveFiles.AssemblyInfoInputs.cache
+H:\API\RemoveFiles\RemoveFiles\obj\Debug\netcoreapp3.1\RemoveFiles.AssemblyInfo.cs
+H:\API\RemoveFiles\RemoveFiles\obj\Debug\netcoreapp3.1\RemoveFiles.csproj.CoreCompileInputs.cache
+H:\API\RemoveFiles\RemoveFiles\obj\Debug\netcoreapp3.1\RemoveFiles.dll
+H:\API\RemoveFiles\RemoveFiles\obj\Debug\netcoreapp3.1\RemoveFiles.pdb
+H:\API\RemoveFiles\RemoveFiles\obj\Debug\netcoreapp3.1\RemoveFiles.genruntimeconfig.cache
